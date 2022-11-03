@@ -1,0 +1,19 @@
+.cardContainer{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 700px;
+    border: 2px solid greenyellow;
+    word-wrap: break-word;
+    background-color: #404040;
+    color:whitesmoke;
+    padding:8px;
+    min-width: 250px;
+}
+
+
+.editText{
+    border:none;
+    background-color: #404040;
+    color: white;
+    outline: none;
+}
